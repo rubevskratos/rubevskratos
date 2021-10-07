@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rubevskratos
-- 👀 I’m interested in Full-Stack Web Development
+- 👀 I’m interested in Data Science and Full-Stack Web Development
 - 🌱 I’m currently learning @ Reboot Academy
 
 <!---
